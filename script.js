@@ -36,9 +36,8 @@ document.body.appendChild(buttonValidar);
 
 const validar = document.createElement('h2');
 validar.innerHTML = 'Digite o valor, escolha a opção e clique em validar';
-formulario.appendChild(validar);
+document.body.appendChild(validar);
 
-// validator.isEmail(inputText);
 window.onload = function() {  
     const dropSelected = document.getElementById('select');
     buttonValidar.onclick = function () {
