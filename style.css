@@ -5,9 +5,10 @@ body {
     margin-right: auto;
     color: white;
     text-align: center;
+    align-content: center;
     width: 500px;
     font-family: 'Courier New', Courier, monospace;
-    
+
 }
 
 #inputvalue {

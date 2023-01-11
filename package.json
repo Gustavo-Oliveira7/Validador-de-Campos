@@ -14,6 +14,7 @@
   "extends": "trybe-frontend",
   "dependencies": {
     "eslint-config-trybe-frontend": "^1.3.1",
+    "gerador-validador-cpf": "^5.0.2",
     "validator": "^13.7.0",
     "vite": "^4.0.4"
   },
