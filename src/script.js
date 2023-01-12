@@ -1,5 +1,5 @@
 import validator from 'validator';
-import {CPF} from './cpfFunction';
+import {CPF} from '/home/gustavo/Documentos/validadorDeCampos/cpfFunction.js';
 
 
 const formulario = document.createElement('form');
